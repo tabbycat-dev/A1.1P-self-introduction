@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Personal App</string>
+    <string name="author_name">Phuc Tan Nguyen</string>
+    <string name="author_git">tabbycat-dev</string>
+    <string name="author_place">Melbourne, VIC</string>
+    <string name="author_uni">Swinburne University of Technology</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">View profile photo</string>
+    <string name="imageDescription">tabbycat-dev-photo</string>
+</resources>
